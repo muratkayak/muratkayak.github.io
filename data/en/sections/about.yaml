@@ -1,0 +1,51 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Founder & Higher Education Researcher
+
+# your company information
+company:
+  name: HigherEduSpot
+  url: "https://www.highereduspot.com"
+
+# your resume
+# resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I am Murat Kayak, a researcher and founder of HigherEduSpot. My work focuses on higher education, academic careers, scholarly communication, and university ecosystems. I develop platforms and resources that support researchers, academics, and institutions worldwide.'
+
+# your social links
+socialLinks:
+
+- name: Email
+  icon: "fas fa-envelope"
+  url: "murat.kayak@highereduspot.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/muratkayak"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/muratkayakphd/"
+
+- name: ResearchGate
+  icon: "fab fa-researchgate"
+  url: "https://www.researchgate.net/profile/Murat-Kayak"
+
+- name: HigherEduSpot
+  icon: "fas fa-globe"
+  url: "https://www.highereduspot.com"
+
+
+# Custom resources
+resourceLinks:
+- title: "Visit HigherEduSpot"
+  url: "https://www.highereduspot.com"

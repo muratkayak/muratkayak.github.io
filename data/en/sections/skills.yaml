@@ -1,0 +1,33 @@
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  filter: false
+
+skills:
+
+- name: Higher Education Research
+  summary: "Research and analysis of higher education systems, academic careers, universities, and scholarly ecosystems."
+  categories: ["research"]
+
+- name: Academic Careers
+  summary: "Research on academic jobs, faculty recruitment, researcher development, and career opportunities."
+  categories: ["academic"]
+
+- name: Scholarly Communication
+  summary: "Interest in academic publishing, research visibility, and scholarly networks."
+  categories: ["communication"]
+
+- name: Digital Platforms
+  summary: "Building digital platforms and resources for higher education communities."
+  categories: ["digital"]
+
+- name: Content Development
+  summary: "Creating research-based articles, reports, and professional content."
+  categories: ["communication"]
+
+- name: Web Technologies
+  summary: "Experience with Hugo, GitHub Pages, websites, and digital publishing workflows."
+  categories: ["digital"]

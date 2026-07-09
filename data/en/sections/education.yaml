@@ -1,0 +1,66 @@
+section:
+  name: Education
+  id: education
+  template: sections/education.html
+  enable: true
+  weight: 4
+  showOnNavbar: true
+
+degrees:
+
+- name: Doctor of Philosophy (Ph.D.) in Management
+  icon: fa-microscope
+  timeframe: 2014 - 2018
+  institution:
+    name: University of Naples Federico II
+    url: "https://www.unina.it/"
+    logo: /images/sections/education/federico.png
+  customSections:
+  - name: Department
+    content: Economics, Management, Institutions
+  - name: Dissertation
+    content: "The Effects of Perceived Brand Sustaining Innovativeness on Firm Performance"
+  - name: Degree Conferred
+    content: February 2018
+
+
+- name: Doctor of Philosophy (Ph.D.) in Business
+  icon: fa-graduation-cap
+  timeframe: 2014 - 2017
+  institution:
+    name: Feng Chia University
+    url: "https://www.fcu.edu.tw/"
+    logo: /images/sections/education/fengchia.png
+  customSections:
+  - name: Program
+    content: Ph.D. Program of Business, College of Business (AACSB Accredited)
+
+
+- name: Master of Business Administration (MBA)
+  icon: fa-university
+  timeframe: 2010 - 2012
+  institution:
+    name: Asia University
+    url: "https://www.asia.edu.tw/"
+    logo: /images/sections/education/asia.png
+  customSections:
+  - name: Department
+    content: Department of Business Administration, College of Management (AACSB Accredited)
+  - name: Thesis
+    content: "The Effects of Perceived Brand Globalness on Taiwanese University Students’ Purchase Likelihood: An Empirical Study of Starbucks and 85°C Coffee Chain Stores"
+  - name: Degree Conferred
+    content: June 2012
+
+
+- name: Bachelor of Hospitality Management
+  icon: fa-school
+  timeframe: 2005 - 2010
+  institution:
+    name: Muğla Sıtkı Koçman University
+    url: "https://www.mu.edu.tr/"
+    logo: /images/sections/education/mugla.png
+  customSections:
+  - name: Department
+    content: Department of Hospitality Management, School of Tourism and Hospitality Management
+  - name: Degree Conferred
+    content: June 2010

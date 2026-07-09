@@ -1,0 +1,107 @@
+section:
+  name: Publications
+  id: publications
+  enable: true
+  weight: 6
+  showOnNavbar: true
+
+buttons:
+- name: All
+  filter: "all"
+- name: Journal Articles
+  filter: "journal"
+- name: Book Chapters
+  filter: "book"
+- name: Conference Papers
+  filter: "conference"
+
+
+publications:
+
+- title: "Revisiting tourist behavior via destination brand worldness"
+  publishedIn:
+    name: "Management Science Letters, 6(11), 671-680"
+    date: 2016
+    url: "#"
+  authors:
+  - name: "Murat Kayak"
+  - name: "Marco Simoni"
+  paper:
+    summary: "This study examines tourist behavior through the concept of destination brand worldness and explores how global perceptions influence destination branding."
+    url: "#"
+  categories: ["journal"]
+  tags: ["Tourism", "Destination Branding", "Consumer Behavior"]
+
+
+- title: "How perceived global brands influence consumers’ purchasing behavior of Starbucks"
+  publishedIn:
+    name: "Aspects of Tourist Behavior, Cambridge Scholars Publishing"
+    date: 2013
+    url: "#"
+  authors:
+  - name: "Murat Kayak"
+  - name: "Metin Kozak"
+  - name: "Masoumeh Masouhpour"
+  paper:
+    summary: "This book chapter investigates the influence of perceived global brands on consumer purchasing behavior using Starbucks and 85°C Coffee Chain Stores as empirical contexts."
+    url: "#"
+  categories: ["book"]
+  tags: ["Brand Management", "Global Brands", "Consumer Behavior"]
+
+
+- title: "The relationship between coopetition propensity and entrepreneurial intentions of individuals"
+  publishedIn:
+    name: "Circle Conference, Naples, Italy"
+    date: 2016
+    url: "#"
+  authors:
+  - name: "Murat Kayak"
+  - name: "Marco Simoni"
+  paper:
+    summary: "Conference paper exploring the relationship between cooperation and competition strategies and entrepreneurial intentions."
+    url: "#"
+  categories: ["conference"]
+  tags: ["Entrepreneurship", "Coopetition", "Strategy"]
+
+
+- title: "Tourism in worldism: Revisiting the model of tourism destination brand equity via worldness"
+  publishedIn:
+    name: "The Naples Forum on Service, Naples, Italy"
+    date: 2015
+    url: "#"
+  authors:
+  - name: "Murat Kayak"
+  - name: "Marco Simoni"
+  paper:
+    summary: "Research examining tourism destination brand equity through the theoretical perspective of worldness."
+    url: "#"
+  categories: ["conference"]
+  tags: ["Tourism", "Brand Equity", "Innovation"]
+
+
+- title: "Creating brand trust with sustaining innovation"
+  publishedIn:
+    name: "The Naples Forum on Service Doctoral Workshop"
+    date: 2015
+    url: "#"
+  authors:
+  - name: "Murat Kayak"
+  paper:
+    summary: "Doctoral workshop presentation focusing on sustaining innovation and brand trust development."
+    url: "#"
+  categories: ["conference"]
+  tags: ["Innovation", "Brand Trust"]
+
+
+- title: "The effects of perceived brand sustaining innovation on consumer purchasing behavior"
+  publishedIn:
+    name: "12th Ph.D. Seminar, Luzern, Switzerland"
+    date: 2016
+    url: "#"
+  authors:
+  - name: "Murat Kayak"
+  paper:
+    summary: "Doctoral seminar presentation examining the effects of perceived sustaining innovation on consumer behavior."
+    url: "#"
+  categories: ["conference"]
+  tags: ["Innovation", "Consumer Behavior", "Management"]

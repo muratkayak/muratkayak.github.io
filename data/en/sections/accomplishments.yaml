@@ -1,0 +1,40 @@
+section:
+  name: Accomplishments
+  id: accomplishments
+  enable: true
+  weight: 9
+  showOnNavbar: true
+
+accomplishments:
+
+- name: Founder of HigherEduSpot
+  timeline: "2017 - Present"
+  organization:
+    name: HigherEduSpot
+    url: "https://highereduspot.com"
+  courseOverview: "Founder of HigherEduSpot, a global platform for higher education, academic careers, universities, and research communication."
+  certificateURL: "#"
+
+- name: Doctor of Philosophy (Ph.D.) in Management
+  timeline: "2014 - 2018"
+  organization:
+    name: University of Naples Federico II
+    url: "https://www.unina.it"
+  courseOverview: "Ph.D. research focused on strategic management, innovation, brand sustaining innovativeness, and firm performance."
+  certificateURL: "#"
+
+- name: Master of Business Administration (MBA)
+  timeline: "2010 - 2012"
+  organization:
+    name: Asia University
+    url: "https://www.asia.edu.tw"
+  courseOverview: "MBA studies focused on brand globalness, consumer perception, and purchase intention."
+  certificateURL: "#"
+
+- name: Academic Research and International Conferences
+  timeline: "2012 - Present"
+  organization:
+    name: International Academic Conferences
+    url: "#"
+  courseOverview: "Participation in international academic conferences and research activities in tourism, hospitality, management, and business."
+  certificateURL: "#"

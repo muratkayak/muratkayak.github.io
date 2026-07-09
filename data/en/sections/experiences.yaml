@@ -1,0 +1,49 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+
+experiences:
+
+- company:
+    name: HigherEduSpot
+    url: "https://highereduspot.com"
+    location: Global
+    logo: /images/sections/experiences/company1.png
+    overview: HigherEduSpot is a platform focused on higher education, academic careers, university opportunities, and scholarly communication.
+  positions:
+  - designation: Founder
+    start: 2026
+    responsibilities:
+    - Founded and developed HigherEduSpot as a digital platform for higher education communities.
+    - Research and publish content related to academic careers, universities, and scholarly communication.
+    - Develop digital resources for researchers, academics, and institutions.
+
+- company:
+    name: Academic Research & Higher Education Projects
+    location: International
+    logo: /images/sections/experiences/company1.png
+    overview: Independent research and professional activities focused on higher education systems and academic ecosystems.
+  positions:
+  - designation: Researcher
+    start: 2024
+    responsibilities:
+    - Analyze trends in higher education and academic career development.
+    - Explore university systems, research environments, and scholarly networks.
+    - Produce research-based digital content.
+
+- company:
+    name: Digital Publishing & Web Projects
+    location: Online
+    logo: /images/sections/experiences/company1.png
+    overview: Development of web-based projects, content platforms, and digital communication solutions.
+  positions:
+  - designation: Digital Content Developer
+    start: 2023
+    responsibilities:
+    - Develop and manage websites using modern web technologies.
+    - Create academic and professional content platforms.
+    - Work with Hugo, GitHub Pages, and digital publishing workflows.
