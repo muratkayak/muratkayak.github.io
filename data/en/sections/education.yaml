@@ -10,7 +10,7 @@ degrees:
 
 - name: Doctor of Philosophy (Ph.D.) in Management
   icon: fa-microscope
-  timeframe: 2014 - 2018
+  timeframe: 2014 - 2017
   institution:
     name: University of Naples Federico II
     url: "https://www.unina.it/"
@@ -26,7 +26,7 @@ degrees:
 
 - name: Doctor of Philosophy (Ph.D.) in Business
   icon: fa-graduation-cap
-  timeframe: 2014 - 2017
+  timeframe: 2012 - 2014
   institution:
     name: Feng Chia University
     url: "https://www.fcu.edu.tw/"
